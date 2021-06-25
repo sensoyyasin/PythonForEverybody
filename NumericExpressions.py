@@ -1,3 +1,10 @@
+# +  Addition
+# - Subtraction
+# * Multiplication
+# / Divison
+# ** Power
+# % Remainder
+
 jj=23
 kk = jj % 5
 print(kk)
