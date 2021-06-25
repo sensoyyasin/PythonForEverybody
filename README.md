@@ -1,5 +1,5 @@
 # Python-For-Everybody
-Coursera-Michigan University-PythonForEverbody
+Coursera-Michigan University-PythonForEverybody
 
 Course Link (Coursera): https://www.coursera.org/specializations/python
 
